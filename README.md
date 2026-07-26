@@ -1,16 +1,19 @@
-## Hi there 👋
+💫 About Me:
+🎓 BTech CSE (AI/ML) | IIT Madras BS in Data Science & Programming 💻 Building in AI/ML and full-stack development 🚀 Open to internships & collaborative pro
 
-<!--
-**ayushsinghcode/ayushsinghcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Socials:
+LinkedIn
 
-Here are some ideas to get you started:
+💻 Tech Stack:
+C C# Python Pandas Git GitHub JavaScript CSS3 Java AWS Cloudflare Firebase Netlify Oracle Vercel Google Cloud MongoDB MySQL Supabase Postgres Prisma Adobe Figma Framer Canva Blender Adobe Photoshop Adobe Premiere Pro Adobe Illustrator PyTorch TensorFlow GitLab CI GitHub Actions GitLab Vitest Testing-Library Puppeteer Cypress
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 GitHub Stats:
+
+
+
+
+
+
+🏆 GitHub Trophies
+
+
