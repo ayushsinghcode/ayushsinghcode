@@ -58,8 +58,7 @@
 ### 📫 Connect
 
 - 📧 ayushcode@outlook.com
-- 💼 LinkedIn: www.linkedin.com/in/
-ayush-kumar-singh-874b98423
+- 💼 LinkedIn: www.linkedin.com/in/ayush-kumar-singh-874b98423
 
 
 
