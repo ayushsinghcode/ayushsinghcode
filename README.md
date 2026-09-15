@@ -58,7 +58,10 @@
 ### 📫 Connect
 
 - 📧 ayushcode@outlook.com
-- 💼 LinkedIn: *(add your link)*
+- 💼 LinkedIn: www.linkedin.com/in/
+ayush-kumar-singh-874b98423
+
+
 
 ---
 <p align="center"><i>Actively learning, consistently building, steadily becoming a stronger developer.</i></p>
